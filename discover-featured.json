@@ -1,6 +1,6 @@
 [
     "appstream://org.kde.krita",
-    "appstream://org.kde.kdenlive",
-    "appstream://org.kde.elisa",
-    "appstream://org.mozilla.firefox",
+    "appstream://org.kde.kdenlive.desktop",
+    "appstream://org.kde.elisa.desktop",
+    "appstream://org.kde.yakuake.desktop"
 ]
