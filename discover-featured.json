@@ -1,8 +1,6 @@
 [
     "appstream://org.kde.krita",
-    "appstream://org.kde.kdenlive.desktop",
-    "appstream://org.kde.elisa.desktop",
-    "appstream://org.mozilla.firefox.desktop",
-    "appstream://io.gitlab.librewolf.desktop"
-
+    "appstream://org.kde.kdenlive",
+    "appstream://org.kde.elisa",
+    "appstream://org.mozilla.firefox",
 ]
