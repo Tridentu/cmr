@@ -2,5 +2,7 @@
     "appstream://org.kde.krita",
     "appstream://org.kde.kdenlive.desktop",
     "appstream://org.kde.elisa.desktop",
-    "appstream://org.kde.yakuake.desktop"
+    "appstream://org.kde.yakuake.desktop",
+    "appstream://io.gitlab.librewolf.desktop"
+
 ]
