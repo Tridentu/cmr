@@ -11,3 +11,5 @@ dependencies:
     - "libfm-qt-2.1.0"
     - "lxqt-globalkeys-2.1.0"
     - "libstatgrab-0.92.1"
+    - "lxqt-panel-2.1.4"
+    - "libsecret-0.21.6"
