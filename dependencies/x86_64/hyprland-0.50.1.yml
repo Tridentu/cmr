@@ -11,4 +11,5 @@ dependencies:
     - hyprgraphics-0.1.5
     - hyprland-qt-support-0.1.0
     - hyprland-qtutils-0.1.4
-
+    - glaze-5.5.4
+    - libliftoff-0.5.0
