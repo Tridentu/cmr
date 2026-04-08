@@ -6,8 +6,4 @@
     "appstream://org.kde.kdevelop.desktop",
     "appstream://org.gnu.emacs",
     "appstream://org.blender.Blender",
-    "appstream://org.inkscape.Inkscape",
-    "appstream://org.vinegarhq.Sober",
-    "appstream://org.vinegarhq.Vinegar",
-    "appstream://org.winehq.wine"
-]
+    "appstream://org.inkscape.Inkscape"
